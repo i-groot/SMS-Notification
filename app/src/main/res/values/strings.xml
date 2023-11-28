@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS Notification</string>
+    <string name="hello_sms_notification">Hello SMS Notification!</string>
+</resources>
